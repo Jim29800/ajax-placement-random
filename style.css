@@ -1,0 +1,19 @@
+body{
+    background: lightskyblue;
+    color: white;
+}
+img, .vide {
+    height: 100px;
+    width: 100px;
+}
+.bureau {
+    height: 300px;
+    background-color: black;
+    border: white 2px solid;
+    text-align: center;
+}
+.formateur {
+    height: 150px;
+    background-color: black;
+    border: white 2px solid;
+}

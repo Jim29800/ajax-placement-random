@@ -12,7 +12,6 @@ $.ajax({
     dataType: "json",
     url : "http://spreadsheets.google.com/feeds/list/" + maFeuille + "/od6/public/values?alt=json",
 
-    //key=AIzaSyCg_T74YlCMxFZhPyZKMKDQM1BqzfFoFq8",
 
     success: function(data){
         console.log(data)
